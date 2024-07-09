@@ -7,6 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D322D2D92A57620800EDC78D /* indiana-jones-and-the-dial-of-destiny-trailer-1_h480p.mov in Resources */ = {isa = PBXBuildFile; fileRef = D322D2D62A57620800EDC78D /* indiana-jones-and-the-dial-of-destiny-trailer-1_h480p.mov */; };
+		D322D2DA2A57620800EDC78D /* the-flash-trailer-1_h480p.mov in Resources */ = {isa = PBXBuildFile; fileRef = D322D2D72A57620800EDC78D /* the-flash-trailer-1_h480p.mov */; };
+		D322D2DB2A57620800EDC78D /* transformers-rise-of-the-beasts-trailer-1_h480p.mov in Resources */ = {isa = PBXBuildFile; fileRef = D322D2D82A57620800EDC78D /* transformers-rise-of-the-beasts-trailer-1_h480p.mov */; };
+		D322D2E12A57649300EDC78D /* transformers-rise-of-the-beasts.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2E02A57649300EDC78D /* transformers-rise-of-the-beasts.jpeg */; };
+		D322D2E32A57652E00EDC78D /* the-flash.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2E22A57652E00EDC78D /* the-flash.jpeg */; };
+		D322D2E52A57653D00EDC78D /* indiana-jones-and-the-dial-of-destiny.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2E42A57653D00EDC78D /* indiana-jones-and-the-dial-of-destiny.jpeg */; };
+		D322D2F02A57AA4100EDC78D /* amit-lahav-3t07n27XK-w-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2E62A57AA4100EDC78D /* amit-lahav-3t07n27XK-w-unsplash.jpg */; };
+		D322D2F22A57AA4100EDC78D /* edge2edge-media-0KxfiWujzyY-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2E82A57AA4100EDC78D /* edge2edge-media-0KxfiWujzyY-unsplash.jpg */; };
+		D322D2F42A57AA4100EDC78D /* erick-su-WjBp05j8LXI-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2EA2A57AA4100EDC78D /* erick-su-WjBp05j8LXI-unsplash.jpg */; };
+		D322D2F52A57AA4100EDC78D /* molly-keesling-7YhrOw6Kngo-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2EB2A57AA4100EDC78D /* molly-keesling-7YhrOw6Kngo-unsplash.jpg */; };
+		D322D2F62A57AA4100EDC78D /* maiken-ingvordsen-Bz-eN8FoVPE-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2EC2A57AA4100EDC78D /* maiken-ingvordsen-Bz-eN8FoVPE-unsplash.jpg */; };
+		D322D2F72A57AA4100EDC78D /* karsten-winegeart-EI-iNlUGfzI-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2ED2A57AA4100EDC78D /* karsten-winegeart-EI-iNlUGfzI-unsplash.jpg */; };
+		D322D2F82A57AA4100EDC78D /* taylor-rooney-dFC80hmTOoE-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2EE2A57AA4100EDC78D /* taylor-rooney-dFC80hmTOoE-unsplash.jpg */; };
+		D322D2F92A57AA4100EDC78D /* jessica-loaiza-glqTtszXfM0-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D322D2EF2A57AA4100EDC78D /* jessica-loaiza-glqTtszXfM0-unsplash.jpg */; };
+		D32B3FB32951014800BD45B1 /* SkittlesBox.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D32B3FB22951014800BD45B1 /* SkittlesBox.jpeg */; };
+		D36EAC4E2A98065E00E3AD1D /* CaptionBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC4D2A98065E00E3AD1D /* CaptionBackgroundView.swift */; };
+		D36EAC502A98079600E3AD1D /* TheatreTicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC4F2A98079600E3AD1D /* TheatreTicketView.swift */; };
+		D36EAC522A9D24F000E3AD1D /* ConcessionMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC512A9D24EF00E3AD1D /* ConcessionMenuView.swift */; };
+		D36EAC542A9D27AF00E3AD1D /* CreditCardFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC532A9D27AF00E3AD1D /* CreditCardFormView.swift */; };
+		D36EAC562A9D28B300E3AD1D /* MovieScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC552A9D28B300E3AD1D /* MovieScreen.swift */; };
+		D36EAC582A9D297E00E3AD1D /* TicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC572A9D297E00E3AD1D /* TicketView.swift */; };
+		D36EAC5A2A9D2A7900E3AD1D /* BarcodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC592A9D2A7900E3AD1D /* BarcodeView.swift */; };
+		D36EAC5E2A9E79AD00E3AD1D /* MaterialButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D36EAC5D2A9E79AC00E3AD1D /* MaterialButtonStyle.swift */; };
+		D393A2AA2C39D9810055B102 /* Jura-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A02C39D9810055B102 /* Jura-Bold.ttf */; };
+		D393A2AB2C39D9810055B102 /* Jura-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A12C39D9810055B102 /* Jura-Light.ttf */; };
+		D393A2AC2C39D9810055B102 /* Jura-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A22C39D9810055B102 /* Jura-Medium.ttf */; };
+		D393A2AD2C39D9810055B102 /* Jura-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A32C39D9810055B102 /* Jura-Regular.ttf */; };
+		D393A2AE2C39D9810055B102 /* Jura-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A42C39D9810055B102 /* Jura-SemiBold.ttf */; };
+		D393A2AF2C39D9810055B102 /* Jura-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A62C39D9810055B102 /* Jura-VariableFont_wght.ttf */; };
+		D393A2B02C39D9810055B102 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A72C39D9810055B102 /* OFL.txt */; };
+		D393A2B12C39D9810055B102 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = D393A2A82C39D9810055B102 /* README.txt */; };
+		D393A2B32C3C8B470055B102 /* MovieRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = D393A2B22C3C8B470055B102 /* MovieRating.swift */; };
+		D393A2B52C3C8C800055B102 /* Theatre.swift in Sources */ = {isa = PBXBuildFile; fileRef = D393A2B42C3C8C800055B102 /* Theatre.swift */; };
 		D39E2D56293EAB0700DCFE96 /* MoviesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39E2D55293EAB0700DCFE96 /* MoviesApp.swift */; };
 		D39E2D58293EAB0700DCFE96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39E2D57293EAB0700DCFE96 /* ContentView.swift */; };
 		D39E2D5A293EAB0900DCFE96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D39E2D59293EAB0900DCFE96 /* Assets.xcassets */; };
@@ -14,6 +47,24 @@
 		D39E2D67293EAB0900DCFE96 /* MoviesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39E2D66293EAB0900DCFE96 /* MoviesTests.swift */; };
 		D39E2D71293EAB0900DCFE96 /* MoviesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39E2D70293EAB0900DCFE96 /* MoviesUITests.swift */; };
 		D39E2D73293EAB0900DCFE96 /* MoviesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39E2D72293EAB0900DCFE96 /* MoviesUITestsLaunchTests.swift */; };
+		D39E2D802942827D00DCFE96 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39E2D7F2942827D00DCFE96 /* Extensions.swift */; };
+		D3AF3E442A98044D0030FDDF /* PosterBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AF3E432A98044D0030FDDF /* PosterBlur.swift */; };
+		D3AF3E462A9804AB0030FDDF /* BackgroundBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3AF3E452A9804AB0030FDDF /* BackgroundBlur.swift */; };
+		D3FA65782A97F05E003FC0CB /* NowPlayingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65772A97F05E003FC0CB /* NowPlayingView.swift */; };
+		D3FA657A2A97F28A003FC0CB /* CaptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65792A97F28A003FC0CB /* CaptionView.swift */; };
+		D3FA657C2A97F2E5003FC0CB /* NowPlayingPosterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA657B2A97F2E5003FC0CB /* NowPlayingPosterView.swift */; };
+		D3FA657E2A97F3CB003FC0CB /* WalletView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA657D2A97F3CB003FC0CB /* WalletView.swift */; };
+		D3FA65802A97F485003FC0CB /* WalletTicketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA657F2A97F485003FC0CB /* WalletTicketView.swift */; };
+		D3FA65822A97F4F3003FC0CB /* WalletTicket.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65812A97F4F3003FC0CB /* WalletTicket.swift */; };
+		D3FA65842A97F5FE003FC0CB /* RatingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65832A97F5FE003FC0CB /* RatingsView.swift */; };
+		D3FA65862A97F6F4003FC0CB /* TheatreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65852A97F6F4003FC0CB /* TheatreView.swift */; };
+		D3FA65882A97FCE5003FC0CB /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65872A97FCE5003FC0CB /* CheckoutView.swift */; };
+		D3FA658A2A97FD4F003FC0CB /* PerspectiveScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65892A97FD4F003FC0CB /* PerspectiveScreenView.swift */; };
+		D3FA658C2A97FDFE003FC0CB /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA658B2A97FDFE003FC0CB /* Movie.swift */; };
+		D3FA658E2A97FE47003FC0CB /* Ticket.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA658D2A97FE47003FC0CB /* Ticket.swift */; };
+		D3FA65902A97FF36003FC0CB /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA658F2A97FF36003FC0CB /* Menu.swift */; };
+		D3FA65922A97FF74003FC0CB /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65912A97FF74003FC0CB /* MenuItem.swift */; };
+		D3FA65942A97FF90003FC0CB /* OrderItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3FA65932A97FF8F003FC0CB /* OrderItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +85,40 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D322D2D62A57620800EDC78D /* indiana-jones-and-the-dial-of-destiny-trailer-1_h480p.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "indiana-jones-and-the-dial-of-destiny-trailer-1_h480p.mov"; sourceTree = "<group>"; };
+		D322D2D72A57620800EDC78D /* the-flash-trailer-1_h480p.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "the-flash-trailer-1_h480p.mov"; sourceTree = "<group>"; };
+		D322D2D82A57620800EDC78D /* transformers-rise-of-the-beasts-trailer-1_h480p.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "transformers-rise-of-the-beasts-trailer-1_h480p.mov"; sourceTree = "<group>"; };
+		D322D2E02A57649300EDC78D /* transformers-rise-of-the-beasts.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "transformers-rise-of-the-beasts.jpeg"; sourceTree = "<group>"; };
+		D322D2E22A57652E00EDC78D /* the-flash.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "the-flash.jpeg"; sourceTree = "<group>"; };
+		D322D2E42A57653D00EDC78D /* indiana-jones-and-the-dial-of-destiny.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "indiana-jones-and-the-dial-of-destiny.jpeg"; sourceTree = "<group>"; };
+		D322D2E62A57AA4100EDC78D /* amit-lahav-3t07n27XK-w-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "amit-lahav-3t07n27XK-w-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2E82A57AA4100EDC78D /* edge2edge-media-0KxfiWujzyY-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "edge2edge-media-0KxfiWujzyY-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2EA2A57AA4100EDC78D /* erick-su-WjBp05j8LXI-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "erick-su-WjBp05j8LXI-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2EB2A57AA4100EDC78D /* molly-keesling-7YhrOw6Kngo-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "molly-keesling-7YhrOw6Kngo-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2EC2A57AA4100EDC78D /* maiken-ingvordsen-Bz-eN8FoVPE-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "maiken-ingvordsen-Bz-eN8FoVPE-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2ED2A57AA4100EDC78D /* karsten-winegeart-EI-iNlUGfzI-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "karsten-winegeart-EI-iNlUGfzI-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2EE2A57AA4100EDC78D /* taylor-rooney-dFC80hmTOoE-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "taylor-rooney-dFC80hmTOoE-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2EF2A57AA4100EDC78D /* jessica-loaiza-glqTtszXfM0-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jessica-loaiza-glqTtszXfM0-unsplash.jpg"; sourceTree = "<group>"; };
+		D322D2FA2A57B0B300EDC78D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		D32B3FB22951014800BD45B1 /* SkittlesBox.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SkittlesBox.jpeg; sourceTree = "<group>"; };
+		D36EAC4D2A98065E00E3AD1D /* CaptionBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionBackgroundView.swift; sourceTree = "<group>"; };
+		D36EAC4F2A98079600E3AD1D /* TheatreTicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheatreTicketView.swift; sourceTree = "<group>"; };
+		D36EAC512A9D24EF00E3AD1D /* ConcessionMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcessionMenuView.swift; sourceTree = "<group>"; };
+		D36EAC532A9D27AF00E3AD1D /* CreditCardFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditCardFormView.swift; sourceTree = "<group>"; };
+		D36EAC552A9D28B300E3AD1D /* MovieScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieScreen.swift; sourceTree = "<group>"; };
+		D36EAC572A9D297E00E3AD1D /* TicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketView.swift; sourceTree = "<group>"; };
+		D36EAC592A9D2A7900E3AD1D /* BarcodeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeView.swift; sourceTree = "<group>"; };
+		D36EAC5D2A9E79AC00E3AD1D /* MaterialButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialButtonStyle.swift; sourceTree = "<group>"; };
+		D393A2A02C39D9810055B102 /* Jura-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jura-Bold.ttf"; sourceTree = "<group>"; };
+		D393A2A12C39D9810055B102 /* Jura-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jura-Light.ttf"; sourceTree = "<group>"; };
+		D393A2A22C39D9810055B102 /* Jura-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jura-Medium.ttf"; sourceTree = "<group>"; };
+		D393A2A32C39D9810055B102 /* Jura-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jura-Regular.ttf"; sourceTree = "<group>"; };
+		D393A2A42C39D9810055B102 /* Jura-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jura-SemiBold.ttf"; sourceTree = "<group>"; };
+		D393A2A62C39D9810055B102 /* Jura-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jura-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		D393A2A72C39D9810055B102 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		D393A2A82C39D9810055B102 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		D393A2B22C3C8B470055B102 /* MovieRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieRating.swift; sourceTree = "<group>"; };
+		D393A2B42C3C8C800055B102 /* Theatre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theatre.swift; sourceTree = "<group>"; };
 		D39E2D52293EAB0700DCFE96 /* Movies.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Movies.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D39E2D55293EAB0700DCFE96 /* MoviesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesApp.swift; sourceTree = "<group>"; };
 		D39E2D57293EAB0700DCFE96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +129,24 @@
 		D39E2D6C293EAB0900DCFE96 /* MoviesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoviesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D39E2D70293EAB0900DCFE96 /* MoviesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesUITests.swift; sourceTree = "<group>"; };
 		D39E2D72293EAB0900DCFE96 /* MoviesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D39E2D7F2942827D00DCFE96 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		D3AF3E432A98044D0030FDDF /* PosterBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PosterBlur.swift; sourceTree = "<group>"; };
+		D3AF3E452A9804AB0030FDDF /* BackgroundBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundBlur.swift; sourceTree = "<group>"; };
+		D3FA65772A97F05E003FC0CB /* NowPlayingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowPlayingView.swift; sourceTree = "<group>"; };
+		D3FA65792A97F28A003FC0CB /* CaptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionView.swift; sourceTree = "<group>"; };
+		D3FA657B2A97F2E5003FC0CB /* NowPlayingPosterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NowPlayingPosterView.swift; sourceTree = "<group>"; };
+		D3FA657D2A97F3CB003FC0CB /* WalletView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletView.swift; sourceTree = "<group>"; };
+		D3FA657F2A97F485003FC0CB /* WalletTicketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletTicketView.swift; sourceTree = "<group>"; };
+		D3FA65812A97F4F3003FC0CB /* WalletTicket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletTicket.swift; sourceTree = "<group>"; };
+		D3FA65832A97F5FE003FC0CB /* RatingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsView.swift; sourceTree = "<group>"; };
+		D3FA65852A97F6F4003FC0CB /* TheatreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheatreView.swift; sourceTree = "<group>"; };
+		D3FA65872A97FCE5003FC0CB /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		D3FA65892A97FD4F003FC0CB /* PerspectiveScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerspectiveScreenView.swift; sourceTree = "<group>"; };
+		D3FA658B2A97FDFE003FC0CB /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		D3FA658D2A97FE47003FC0CB /* Ticket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ticket.swift; sourceTree = "<group>"; };
+		D3FA658F2A97FF36003FC0CB /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		D3FA65912A97FF74003FC0CB /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		D3FA65932A97FF8F003FC0CB /* OrderItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +174,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D393A2A52C39D9810055B102 /* static */ = {
+			isa = PBXGroup;
+			children = (
+				D393A2A02C39D9810055B102 /* Jura-Bold.ttf */,
+				D393A2A12C39D9810055B102 /* Jura-Light.ttf */,
+				D393A2A22C39D9810055B102 /* Jura-Medium.ttf */,
+				D393A2A32C39D9810055B102 /* Jura-Regular.ttf */,
+				D393A2A42C39D9810055B102 /* Jura-SemiBold.ttf */,
+			);
+			path = static;
+			sourceTree = "<group>";
+		};
+		D393A2A92C39D9810055B102 /* Jura */ = {
+			isa = PBXGroup;
+			children = (
+				D393A2A52C39D9810055B102 /* static */,
+				D393A2A62C39D9810055B102 /* Jura-VariableFont_wght.ttf */,
+				D393A2A72C39D9810055B102 /* OFL.txt */,
+				D393A2A82C39D9810055B102 /* README.txt */,
+			);
+			path = Jura;
+			sourceTree = "<group>";
+		};
 		D39E2D49293EAB0700DCFE96 = {
 			isa = PBXGroup;
 			children = (
@@ -94,10 +220,55 @@
 		D39E2D54293EAB0700DCFE96 /* Movies */ = {
 			isa = PBXGroup;
 			children = (
+				D393A2A92C39D9810055B102 /* Jura */,
+				D322D2FA2A57B0B300EDC78D /* Info.plist */,
+				D322D2E62A57AA4100EDC78D /* amit-lahav-3t07n27XK-w-unsplash.jpg */,
+				D322D2E82A57AA4100EDC78D /* edge2edge-media-0KxfiWujzyY-unsplash.jpg */,
+				D322D2EA2A57AA4100EDC78D /* erick-su-WjBp05j8LXI-unsplash.jpg */,
+				D322D2EF2A57AA4100EDC78D /* jessica-loaiza-glqTtszXfM0-unsplash.jpg */,
+				D322D2ED2A57AA4100EDC78D /* karsten-winegeart-EI-iNlUGfzI-unsplash.jpg */,
+				D322D2EC2A57AA4100EDC78D /* maiken-ingvordsen-Bz-eN8FoVPE-unsplash.jpg */,
+				D322D2EB2A57AA4100EDC78D /* molly-keesling-7YhrOw6Kngo-unsplash.jpg */,
+				D322D2EE2A57AA4100EDC78D /* taylor-rooney-dFC80hmTOoE-unsplash.jpg */,
+				D322D2E42A57653D00EDC78D /* indiana-jones-and-the-dial-of-destiny.jpeg */,
+				D322D2E22A57652E00EDC78D /* the-flash.jpeg */,
+				D322D2E02A57649300EDC78D /* transformers-rise-of-the-beasts.jpeg */,
+				D322D2D62A57620800EDC78D /* indiana-jones-and-the-dial-of-destiny-trailer-1_h480p.mov */,
+				D322D2D72A57620800EDC78D /* the-flash-trailer-1_h480p.mov */,
+				D322D2D82A57620800EDC78D /* transformers-rise-of-the-beasts-trailer-1_h480p.mov */,
+				D32B3FB22951014800BD45B1 /* SkittlesBox.jpeg */,
 				D39E2D55293EAB0700DCFE96 /* MoviesApp.swift */,
 				D39E2D57293EAB0700DCFE96 /* ContentView.swift */,
 				D39E2D59293EAB0900DCFE96 /* Assets.xcassets */,
 				D39E2D5B293EAB0900DCFE96 /* Preview Content */,
+				D39E2D7F2942827D00DCFE96 /* Extensions.swift */,
+				D3FA65772A97F05E003FC0CB /* NowPlayingView.swift */,
+				D3FA65792A97F28A003FC0CB /* CaptionView.swift */,
+				D3FA657B2A97F2E5003FC0CB /* NowPlayingPosterView.swift */,
+				D3FA657D2A97F3CB003FC0CB /* WalletView.swift */,
+				D3FA657F2A97F485003FC0CB /* WalletTicketView.swift */,
+				D3FA65812A97F4F3003FC0CB /* WalletTicket.swift */,
+				D3FA65832A97F5FE003FC0CB /* RatingsView.swift */,
+				D3FA65852A97F6F4003FC0CB /* TheatreView.swift */,
+				D3FA65872A97FCE5003FC0CB /* CheckoutView.swift */,
+				D3FA65892A97FD4F003FC0CB /* PerspectiveScreenView.swift */,
+				D3FA658B2A97FDFE003FC0CB /* Movie.swift */,
+				D3FA658D2A97FE47003FC0CB /* Ticket.swift */,
+				D3FA658F2A97FF36003FC0CB /* Menu.swift */,
+				D3FA65912A97FF74003FC0CB /* MenuItem.swift */,
+				D3FA65932A97FF8F003FC0CB /* OrderItem.swift */,
+				D3AF3E432A98044D0030FDDF /* PosterBlur.swift */,
+				D3AF3E452A9804AB0030FDDF /* BackgroundBlur.swift */,
+				D36EAC4D2A98065E00E3AD1D /* CaptionBackgroundView.swift */,
+				D36EAC4F2A98079600E3AD1D /* TheatreTicketView.swift */,
+				D36EAC512A9D24EF00E3AD1D /* ConcessionMenuView.swift */,
+				D36EAC532A9D27AF00E3AD1D /* CreditCardFormView.swift */,
+				D36EAC552A9D28B300E3AD1D /* MovieScreen.swift */,
+				D36EAC572A9D297E00E3AD1D /* TicketView.swift */,
+				D36EAC592A9D2A7900E3AD1D /* BarcodeView.swift */,
+				D36EAC5D2A9E79AC00E3AD1D /* MaterialButtonStyle.swift */,
+				D393A2B22C3C8B470055B102 /* MovieRating.swift */,
+				D393A2B42C3C8C800055B102 /* Theatre.swift */,
 			);
 			path = Movies;
 			sourceTree = "<group>";
@@ -231,8 +402,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D393A2AB2C39D9810055B102 /* Jura-Light.ttf in Resources */,
+				D393A2AF2C39D9810055B102 /* Jura-VariableFont_wght.ttf in Resources */,
+				D322D2E52A57653D00EDC78D /* indiana-jones-and-the-dial-of-destiny.jpeg in Resources */,
+				D322D2F92A57AA4100EDC78D /* jessica-loaiza-glqTtszXfM0-unsplash.jpg in Resources */,
+				D322D2E12A57649300EDC78D /* transformers-rise-of-the-beasts.jpeg in Resources */,
+				D322D2F42A57AA4100EDC78D /* erick-su-WjBp05j8LXI-unsplash.jpg in Resources */,
+				D393A2B02C39D9810055B102 /* OFL.txt in Resources */,
+				D322D2F02A57AA4100EDC78D /* amit-lahav-3t07n27XK-w-unsplash.jpg in Resources */,
 				D39E2D5D293EAB0900DCFE96 /* Preview Assets.xcassets in Resources */,
+				D322D2DA2A57620800EDC78D /* the-flash-trailer-1_h480p.mov in Resources */,
+				D322D2F62A57AA4100EDC78D /* maiken-ingvordsen-Bz-eN8FoVPE-unsplash.jpg in Resources */,
 				D39E2D5A293EAB0900DCFE96 /* Assets.xcassets in Resources */,
+				D322D2D92A57620800EDC78D /* indiana-jones-and-the-dial-of-destiny-trailer-1_h480p.mov in Resources */,
+				D393A2AE2C39D9810055B102 /* Jura-SemiBold.ttf in Resources */,
+				D393A2B12C39D9810055B102 /* README.txt in Resources */,
+				D393A2AC2C39D9810055B102 /* Jura-Medium.ttf in Resources */,
+				D322D2F22A57AA4100EDC78D /* edge2edge-media-0KxfiWujzyY-unsplash.jpg in Resources */,
+				D393A2AD2C39D9810055B102 /* Jura-Regular.ttf in Resources */,
+				D393A2AA2C39D9810055B102 /* Jura-Bold.ttf in Resources */,
+				D322D2F82A57AA4100EDC78D /* taylor-rooney-dFC80hmTOoE-unsplash.jpg in Resources */,
+				D32B3FB32951014800BD45B1 /* SkittlesBox.jpeg in Resources */,
+				D322D2E32A57652E00EDC78D /* the-flash.jpeg in Resources */,
+				D322D2F72A57AA4100EDC78D /* karsten-winegeart-EI-iNlUGfzI-unsplash.jpg in Resources */,
+				D322D2F52A57AA4100EDC78D /* molly-keesling-7YhrOw6Kngo-unsplash.jpg in Resources */,
+				D322D2DB2A57620800EDC78D /* transformers-rise-of-the-beasts-trailer-1_h480p.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +451,35 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3AF3E442A98044D0030FDDF /* PosterBlur.swift in Sources */,
+				D3FA65922A97FF74003FC0CB /* MenuItem.swift in Sources */,
+				D3FA658C2A97FDFE003FC0CB /* Movie.swift in Sources */,
+				D393A2B52C3C8C800055B102 /* Theatre.swift in Sources */,
+				D3FA657A2A97F28A003FC0CB /* CaptionView.swift in Sources */,
+				D3AF3E462A9804AB0030FDDF /* BackgroundBlur.swift in Sources */,
+				D3FA65802A97F485003FC0CB /* WalletTicketView.swift in Sources */,
+				D36EAC502A98079600E3AD1D /* TheatreTicketView.swift in Sources */,
+				D36EAC4E2A98065E00E3AD1D /* CaptionBackgroundView.swift in Sources */,
+				D3FA65882A97FCE5003FC0CB /* CheckoutView.swift in Sources */,
 				D39E2D58293EAB0700DCFE96 /* ContentView.swift in Sources */,
+				D3FA65862A97F6F4003FC0CB /* TheatreView.swift in Sources */,
+				D3FA65822A97F4F3003FC0CB /* WalletTicket.swift in Sources */,
+				D36EAC5E2A9E79AD00E3AD1D /* MaterialButtonStyle.swift in Sources */,
+				D3FA658E2A97FE47003FC0CB /* Ticket.swift in Sources */,
+				D36EAC522A9D24F000E3AD1D /* ConcessionMenuView.swift in Sources */,
+				D36EAC5A2A9D2A7900E3AD1D /* BarcodeView.swift in Sources */,
+				D36EAC582A9D297E00E3AD1D /* TicketView.swift in Sources */,
+				D39E2D802942827D00DCFE96 /* Extensions.swift in Sources */,
+				D36EAC562A9D28B300E3AD1D /* MovieScreen.swift in Sources */,
+				D36EAC542A9D27AF00E3AD1D /* CreditCardFormView.swift in Sources */,
+				D3FA657E2A97F3CB003FC0CB /* WalletView.swift in Sources */,
+				D3FA65942A97FF90003FC0CB /* OrderItem.swift in Sources */,
+				D3FA65902A97FF36003FC0CB /* Menu.swift in Sources */,
+				D3FA657C2A97F2E5003FC0CB /* NowPlayingPosterView.swift in Sources */,
+				D3FA658A2A97FD4F003FC0CB /* PerspectiveScreenView.swift in Sources */,
+				D3FA65842A97F5FE003FC0CB /* RatingsView.swift in Sources */,
+				D393A2B32C3C8B470055B102 /* MovieRating.swift in Sources */,
+				D3FA65782A97F05E003FC0CB /* NowPlayingView.swift in Sources */,
 				D39E2D56293EAB0700DCFE96 /* MoviesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -420,6 +642,7 @@
 				DEVELOPMENT_TEAM = QY3Z8796WD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Movies/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -449,6 +672,7 @@
 				DEVELOPMENT_TEAM = QY3Z8796WD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Movies/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
